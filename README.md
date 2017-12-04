@@ -39,40 +39,29 @@ are less if we book in advance otherwise fares seem to surge as the departure da
 
 # Feature Engineering
 Feature Engineering is the art and science of selecting and/or generating the new independent variables from already present raw variables in a data table for more accurate Data Analysis.
--> Type
-  Aircraft
-  Carrier
--> Location
-  Source
-  Destination
--> Time
-  Departure Time (HH:MM:SS)
-  Arrival Time (Date + Time)
-  Departure Time of Day
-    Late Night (12 am to 4 am)
-    Morning (4 am to 12 pm )
-    Afternoon (12 pm to 17 pm)
-    Evening (17 pm to 20 pm)
-    Night (20 pm to 12 am)
-  Search Time of Day
-    Same as Departure Time of Day
-  Departure Date of Month (DD)
-  Departure Month of Year
-  Search Date of Month (DD)
-  Search Month of Year
-  Lag (Number of days between Search and Departure) (0-15 Days)
-    Same Day
-    1-2 Days
-    3-7 Days
-    A Week or more
-  Weekday or Weekend Departure (Saturday and Sunday as Weekend)
-  Weekday or Weekend Search (Saturday and Sunday as Weekend)
-  Duration (Flight Duration in minutes)
-  Date of Search (YYYY:MM:DD)
-  Time of Search (HH:MM:SS)
-  Departure Date (YYYY:MM:DD)
-  Departure Weekday (Monday, Tuesday and so on)
-  Search Weekday (Monday, Tuesday and so on)
+1. Aircraft
+2. Carrier
+3. Location
+4. Source
+5. Destination
+6. Departure Time (HH:MM:SS)
+7. Arrival Time (Date + Time)
+8. Duration (Flight Duration in minutes)
+9. Date of Search (YYYY:MM:DD)
+10. Time of Search (HH:MM:SS)
+11. Departure Date (YYYY:MM:DD)
+12. Departure Weekday (Monday, Tuesday and so on)
+13. Search Weekday (Monday, Tuesday and so on)
+14. Departure Time of Day (Late Night (12 am to 4 am), Morning (4 am to 12 pm ), Afternoon (12 pm to 17 pm),Evening (17 pm to 20 pm),Night (20 pm to 12 am)
+15. Search Time of Day
+16. Same as Departure Time of Day
+17. Departure Date of Month (DD)
+18. Departure Month of Year
+19. Search Date of Month (DD)
+20. Search Month of Year
+21. Lag (Number of days between Search and Departure) (0-15 Days)(Same Day,1-2 Days,3-7 Days,A Week or more)
+22. Weekday or Weekend Departure (Saturday and Sunday as Weekend)
+23. Weekday or Weekend Search (Saturday and Sunday as Weekend)
 
 # EDA & Visualization
 
