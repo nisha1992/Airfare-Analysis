@@ -64,6 +64,6 @@ Feature Engineering is the art and science of selecting and/or generating the n
 23. Weekday or Weekend Search (Saturday and Sunday as Weekend)
 
 # EDA & Visualization
-
+![alt text](https://github.com/nisha1992/Airfare-Analysis/blob/master/AirfareoveAircrafts.png)
 
 
