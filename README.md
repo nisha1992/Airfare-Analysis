@@ -65,5 +65,15 @@ Feature Engineering is the art and science of selecting and/or generating the n
 
 # EDA & Visualization
 ![alt text](https://github.com/nisha1992/Airfare-Analysis/blob/master/AirfareoveAircrafts.png)
+![alt text](https://github.com/nisha1992/Airfare-Analysis/blob/master/AirfaresoverAircrafts.png)
+![alt text](https://github.com/nisha1992/Airfare-Analysis/blob/master/AirfarevsDepartTimeofDay.png)
+![alt text](https://github.com/nisha1992/Airfare-Analysis/blob/master/AirfarevsDepartureDates.png)
+![alt text](https://github.com/nisha1992/Airfare-Analysis/blob/master/AirfarevsDepartureTOD.png)
+![alt text](https://github.com/nisha1992/Airfare-Analysis/blob/master/AirfarevsLag.png)
+![alt text](https://github.com/nisha1992/Airfare-Analysis/blob/master/AirfarevsLagBoxplot.png)
+![alt text](https://github.com/nisha1992/Airfare-Analysis/blob/master/AirfarevsWeekdays.png)
+![alt text](https://github.com/nisha1992/Airfare-Analysis/blob/master/DeparturDatesvsAirfare.png)
+![alt text](https://github.com/nisha1992/Airfare-Analysis/blob/master/SearchTODvsAirfare.png)
+![alt text](https://github.com/nisha1992/Airfare-Analysis/blob/master/WeekdayendvsAirfare.png)
 
 
