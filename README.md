@@ -8,7 +8,7 @@ Excel, R, Google Flight QPX API
 
 
 # Insights
-Linkk : https://www.slideshare.net/nishachandrani/airfare-analysis
+Link : https://www.slideshare.net/nishachandrani/airfare-analysis
 1. On same day and 1-2 Days Lag, frequency of flights are highest in the 8-9k fare range.
 2. On 3-7 Days Lag, frequency of flights are highest in the 7-8k fare range.
 3. On A week or more Lag, frequency of flights are highest in the 6-7k fare range.
