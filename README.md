@@ -6,6 +6,31 @@ The purpose of this project is to analyze the change in Airfares over Date, Time
 # Tools Used
 Excel, R, Google Flight QPX API
 
+
+# Insights
+1. On same day and 1-2 Days Lag, frequency of flights are highest in the 8-9k fare range.
+2. On 3-7 Days Lag, frequency of flights are highest in the 7-8k fare range.
+3. On A week or more Lag, frequency of flights are highest in the 6-7k fare range.
+4. During the festivals and the pre/post festivals weekends, average airfares seem to be
+approx. 1.2x higher.
+5. Average airfare on Sundays, Mondays and Saturdays are around 0.5x than the other
+days.
+6. Average airfare during morning (6 am) are highest.
+
+# Fun Facts about Airlines
+1. Airbus and Boeing has been characterized as a duopoly in the large jet airliner market since the
+1990s.
+2. Airbus is European while Boeing has its roots in United States.
+3. Airbus planes have a curved and rounded nose, while the Boeing planes are round but slightly
+pointed.
+4. The Boeing 737 and Airbus A320 are two of the most popular single-aisle planes flying.
+5. The Airbus A380 super-jumbo is a plane capable of ferrying from 550 to 800 passengers with its
+two full-length decks and the promise of amenities such as sleeper cabins, cocktail lounges and a
+gym.
+6. Boeing has a 787 – Dreamliner to compete with A380.
+
+# Project Description
+
 # Data Overview
 Data collection Range: Data is available for dates from 28-09-2017 to 08-11-2017
 Data collected on a gap of 3 hours (starting 2 am) every day for next 15 days’ Flights. 
@@ -75,5 +100,6 @@ Feature Engineering is the art and science of selecting and/or generating the n
 ![alt text](https://github.com/nisha1992/Airfare-Analysis/blob/master/DeparturDatesvsAirfare.png)
 ![alt text](https://github.com/nisha1992/Airfare-Analysis/blob/master/SearchTODvsAirfare.png)
 ![alt text](https://github.com/nisha1992/Airfare-Analysis/blob/master/WeekdayendvsAirfare.png)
+
 
 
