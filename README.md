@@ -33,8 +33,8 @@ gym.
 # Project Description
 
 # Data Overview
-Data collection Range: Data is available for dates from 28-09-2017 to 08-11-2017
-Data collected on a gap of 3 hours (starting 2 am) every day for next 15 days’ Flights. 
+- Data collection Range: Data is available for dates from 28-09-2017 to 08-11-2017
+- Data collected on a gap of 3 hours (starting 2 am) every day for next 15 days’ Flights. 
 Notes:
 -> Pricing details is available only for 3 airlines i.e. Jet Airways, Air India, Vistara. 
 -> Only DEL to BOM flights and vice versa considered. 
