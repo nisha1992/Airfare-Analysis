@@ -35,19 +35,19 @@ gym.
 # Data Overview
 - Data collection Range: Data is available for dates from 28-09-2017 to 08-11-2017
 - Data collected on a gap of 3 hours (starting 2 am) every day for next 15 days’ Flights. 
-Notes:
--> Pricing details is available only for 3 airlines i.e. Jet Airways, Air India, Vistara. 
--> Only DEL to BOM flights and vice versa considered. 
--> No information about flights with stops. Only non-stop flights considered.
+- Notes:
+- Pricing details is available only for 3 airlines i.e. Jet Airways, Air India, Vistara. 
+- Only DEL to BOM flights and vice versa considered. 
+- No information about flights with stops. Only non-stop flights considered.
 
 # Data Description
-Number of observations : 243557
-Number of variables : 10
-Independent Variables : 
-Type : Aircraft,  Carrier
-Time : Departure Time, Arrival Time, Duration, Date of Search, Time of Search
-Location : Source, Destination
-Dependent Variable : Airfare
+- Number of observations : 243557
+- Number of variables : 10
+- Independent Variables : 
+- Type : Aircraft,  Carrier
+- Time : Departure Time, Arrival Time, Duration, Date of Search, Time of Search
+- Location : Source, Destination
+- Dependent Variable : Airfare
 
 # Outliers Analysis
 Outliers can be calculated using Inter Quartile Range.
